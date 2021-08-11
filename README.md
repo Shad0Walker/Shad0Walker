@@ -2,7 +2,7 @@
 - 👀 I’m interested in PowerShell and C#
 - 🌱 I’m currently learning Advanced Powershell
 - 💞️ I’m looking to collaborate on Fun Projects
-- 📫 How to reach me ndunda_sam@ahoo.co.uk
+- 📫 How to reach me ndunda_sam@yahoo.co.uk
 
 <!---
 Shad0Walker/Shad0Walker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
